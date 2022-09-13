@@ -1,13 +1,18 @@
-# KEA128_Lib
+# 第十四届“恩智浦”杯全国大学生智能汽车竞赛节能组 同济大学-智信节能队 
+全国总决赛二等奖
 
-## 开发环境
-
-- `IDE`: Keil MDK V5.25.2.0
-- `Device Family Pack (DFP)`: Keil.Kinetis_KEAxx_DFP.1.3.0
-
+## 软件部分
+平台：KEA单片机
+功能：PID巡线，避障，环岛
 
 
-## 相关资源
+## 硬件部分
+无线充电接收端
+电机驱动：A4950
+自制PCB
 
-- [MDK5 Software Packs](http://www.keil.com/dd2/Pack/#/eula-container)
-- [Developer Resources | NXP](https://www.nxp.com/support/developer-resources:DEVELOPER_HOME)
+![国赛板子](https://user-images.githubusercontent.com/42105276/189799379-14e500af-c582-4241-afc6-0484f3194280.png)
+
+
+https://user-images.githubusercontent.com/42105276/189800764-4e6328cf-b9ed-4480-a6df-ae3afcacf92b.mp4
+
